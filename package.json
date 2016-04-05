@@ -1,7 +1,7 @@
 {
   "name": "ood-loadbalancer",
   "description": "Load-balancer probe for ood process manager",
-  "version": "0.0.1",
+  "version": "0.0.2-rc1",
   "license": "MIT",
   "author": "Anatol Sommer <anatol@anatol.at>",
   "repository": {
